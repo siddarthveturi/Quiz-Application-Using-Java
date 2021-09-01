@@ -1,0 +1,3 @@
+Who invented Python? (a) Guido Van Rossum. (b) James Gosling.
+a
+

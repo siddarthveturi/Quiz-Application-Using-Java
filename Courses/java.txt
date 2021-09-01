@@ -1,0 +1,5 @@
+Which of the following is a reserved keyword in Java?\n (a)switch    (b)if
+ab
+
+Which keyword is used for accessing the features of a package?\n (a)package    (b)import
+b
